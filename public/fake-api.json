@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "username": "Katy",
+      "userPic": "/profile-pic-small.jpg",
+      "description": "Meow meow meow!",
+      "image": "https://placekitten.com/400/400"
+    },
+    {
+      "username": "Katy",
+      "userPic": "/profile-pic-small.jpg",
+      "description": "zzzZzzzz",
+      "image": "/01.jpg"
+    },
+    {
+      "username": "Katy",
+      "userPic": "/profile-pic-small.jpg",
+      "description": "#2020 amirtie",
+      "image": "/02.jpg"
+    },
+    {
+      "username": "Katy",
+      "userPic": "/profile-pic-small.jpg",
+      "description": "#selfie #nofilter",
+      "image": "/03.jpg"
+    }
+  ]
+}

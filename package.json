@@ -1,0 +1,26 @@
+{
+  "name": "cuny-workshop-dec-2020-template",
+  "version": "1.0.0",
+  "description": "A template to play around with!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amycheng/cuny-workshop-dec-2020-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amycheng/cuny-workshop-dec-2020-template/issues"
+  },
+  "homepage": "https://github.com/amycheng/cuny-workshop-dec-2020-template#readme",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}

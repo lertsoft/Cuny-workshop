@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/amycheng/cuny-workshop-dec-2020-template#readme",
   "dependencies": {
-    "next": "^10.0.3",
+    "next": "^11.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
